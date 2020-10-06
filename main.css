@@ -1,18 +1,18 @@
 @font-face{
     font-family: SpaceGrotesk-Light;
-    src: url('fonts/SpaceGrotesk-Light.ttf') format('ttf');
+    src: url('bermuda/fonts/SpaceGrotesk-Light.ttf') format('ttf');
 }
  @font-face{
     font-family: SpaceGrotesk-Regular;
-    src: url('fonts/SpaceGrotesk-Regular.ttf') format('ttf');
+    src: url('bermuda/fonts/SpaceGrotesk-Regular.ttf') format('ttf');
 }
 @font-face{
     font-family: SpaceGrotesk-Bold;
-    src: url('fonts/SpaceGrotesk-Bold.ttf') format('ttf');
+    src: url('bermuda/fonts/SpaceGrotesk-Bold.ttf') format('ttf');
 }
 @font-face{
     font-family: knockout;
-    src: url('fonts/Knockout-51.otf') format('otf');
+    src: url('bermuda/fonts/Knockout-51.otf') format('otf');
 }
 
 body{
